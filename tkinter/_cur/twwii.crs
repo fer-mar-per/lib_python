@@ -1,0 +1,42 @@
+﻿[Arrow]
+Path=TWWII Normal Select.ani
+
+[Wait]
+Path=TWWII Busy.ani
+
+[AppStarting]
+Path=TWWII Busy Cursor.ani
+
+[SizeNWSE]
+Path=TWWII Diagonal 1.cur
+
+[SizeNESW]
+Path=TWWII Diagonal 2.cur
+
+[NWPen]
+Path=TWWII Handwriting.cur
+
+[Help]
+Path=TWWII Help Select.cur
+
+[SizeWE]
+Path=TWWII Horizontal Resize ani.ani
+
+[Hand]
+Path=TWWII Link Select.cur
+
+[SizeAll]
+Path=TWWII Move.ani
+
+[Crosshair]
+Path=TWWII Precision Select.ani
+
+[IBeam]
+Path=TWWII Text Select.cur
+
+[No]
+Path=TWWII Unavailable.ani
+
+[SizeNS]
+Path=TWWII Vertical Resize.cur
+
