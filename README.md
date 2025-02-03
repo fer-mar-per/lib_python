@@ -1,4 +1,4 @@
-# lib-python
+# lib_python
 Library for Python utilities and references.
 
 ## License
